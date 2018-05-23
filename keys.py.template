@@ -1,0 +1,10 @@
+private_key = '''-----BEGIN RSA PRIVATE KEY-----
+INSERT KEY HERE
+-----END RSA PRIVATE KEY-----'''
+
+
+
+public_key = '''-----BEGIN PUBLIC KEY-----
+INSER KEY HERE
+-----END PUBLIC KEY-----'''
+

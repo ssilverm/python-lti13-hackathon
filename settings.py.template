@@ -50,3 +50,6 @@ configClass = 'config.DevelopmentConfig'
 # CANVAS_API_URL = ''
 # CANVAS_API_KEY = ''
 #
+
+AUDIENCE = '' #Client ID
+JSON_KEY_URL = ''
